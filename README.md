@@ -1,5 +1,6 @@
 # Chore-Contest-Program
 A program with two parts. Part 1: chore counter. Prints ranked list of chores completed. Part 2: prize pool. Uses part 1 to make a pool from which a name will be selected at random. 
+
 The program will run a chore contest. The ideal user of this program will be a family and/or household. 
 It can make it easier for parents to keep track of kids doing chores and give incentive for the kids to do the chores. The program will have two parts: the chore counter and the prize pool. 
 The chore counter will keep a record of how many people did how many of each type of chore. When this program is run, it will display the ranking of chores completed (i.e., 1st place with ## of chores was ___ 2nd place with ## of chores was ___...). 
