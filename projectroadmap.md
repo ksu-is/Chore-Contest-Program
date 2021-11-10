@@ -1,9 +1,9 @@
 Sprint 1:
-- [ ] Have an approved project topic.
-- [ ] Establish a Github account and joined the class organization (KSU-IS) in Github by accepting the invite email.
-- [ ] Be associated with ownership of a code repository in our Github organization. If on a team, ensure each has Owner or Maintainer Role.
-- [ ] Have edited and committed changes in a readme.md file in the repository in the Github organization. The commits should show in Github.
-- [ ] Have explored at least one existing Python code base related to the project to evaluate using it in the project and submitted updates to the projectroadmap.md file explaining the findings. 
+- [x] Have an approved project topic.
+- [x] Establish a Github account and joined the class organization (KSU-IS) in Github by accepting the invite email.
+- [x] Be associated with ownership of a code repository in our Github organization. If on a team, ensure each has Owner or Maintainer Role.
+- [x] Have edited and committed changes in a readme.md file in the repository in the Github organization. The commits should show in Github.
+- [x] Have explored at least one existing Python code base related to the project to evaluate using it in the project and submitted updates to the projectroadmap.md file explaining the findings. 
 
 Related code: https://github.com/ksu-is/bingocaller
 
