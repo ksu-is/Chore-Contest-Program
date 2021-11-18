@@ -8,7 +8,7 @@ Sprint 1:
 Related code: https://github.com/ksu-is/bingocaller
 
 Sprint 2:
-- [ ] Start coding 
+- [x] Start coding 
 - [ ] Make updates with commit messages with Github desktop
 - [ ] Commit at least 6 code changes of significant size (not just a spelling error) with a comment explaing what was done (be specific)
 - [ ] Keep track of progress on projectroadmap.md 
