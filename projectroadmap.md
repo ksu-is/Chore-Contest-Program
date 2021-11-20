@@ -9,14 +9,15 @@ Related code: https://github.com/ksu-is/bingocaller
 
 Sprint 2:
 - [x] Start coding 
-- [ ] Make updates with commit messages with Github desktop
-- [ ] Commit at least 6 code changes of significant size (not just a spelling error) with a comment explaing what was done (be specific)
+- [x] Make updates with commit messages with Github desktop
+- [x] Commit at least 6 code changes of significant size (not just a spelling error) with a comment explaing what was done (be specific)
 1. On the "number of items.py" file I added "\n" between contestant names to make it easier to see all names. Fixed the coding for obtaining the amount of names. Before it was giving me a weird error that my indent was wrong no matter what I did so I made it into a function and added more parameters. Also I added more ways for incorrect entries to get feedback, most of which allow the user to start over automatically.
 2. Added coding for gathering info on the chores in the contest.
 3. Created file to gather data from user for contest.
 4. Renamed the file (from "number of items" to "num_items") so that it will be easier to import.
 5. Added a list called name_list to num_items to make it easier to gather info and pair names to chores. 
-- [ ] Keep track of progress on projectroadmap.md 
+6. Added a list called chore_list to make it easier to keep track of the chores and match them with names.
+- [x] Keep track of progress on projectroadmap.md 
 
 Sprint 3:
 - [ ] Continue coding & refining
