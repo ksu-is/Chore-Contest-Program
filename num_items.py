@@ -1,29 +1,44 @@
+name_list = []
 def two_cont():
         one_name = input("Name of 1st contestant: ")
+        name_list.append(one_name)
         two_name = input("Name of 2nd contestant: ")
+        name_list.append(two_name)
         print("Contestants in this chore contest are: \n", one_name, "\n", two_name)
 
 def three_cont():
         one_name = input("Name of 1st contestant: ")
+        name_list.append(one_name)
         two_name = input("Name of 2nd contestant: ")
+        name_list.append(two_name)
         three_name = input("Name of 3rd contestant: ")
+        name_list.append(three_name)
         print("Contestants in this chore contest are: \n", one_name, "\n", two_name, "\n", three_name)
 
 def four_cont():
         one_name = input("Name of 1st contestant: ")
+        name_list.append(one_name)
         two_name = input("Name of 2nd contestant: ")
+        name_list.append(two_name)
         three_name = input("Name of 3rd contestant: ")
+        name_list.append(three_name)
         four_name = input("Name of 4th contestant: ")
+        name_list.append(four_name)
         print("Contestants in this chore contest are: \n", one_name, "\n", two_name, "\n", three_name, "\n", four_name)
 
 def five_cont():
         one_name = input("Name of 1st contestant: ")
+        name_list.append(one_name)
         two_name = input("Name of 2nd contestant: ")
+        name_list.append(two_name)
         three_name = input("Name of 3rd contestant: ")
+        name_list.append(three_name)
         four_name = input("Name of 4th contestant: ")
+        name_list.append(four_name)
         five_name = input("Name of 5th contestant: ")
+        name_list.append(five_name)
         print("Contestants in this chore contest are: \n", one_name, "\n", two_name, "\n", three_name, "\n", four_name, "\n", five_name)
-        
+
 def num_names():
         name_count = input("How many contestants are in this contest? Choose a number between 2 and 5. ")
         if name_count.isdigit():
