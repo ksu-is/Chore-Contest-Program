@@ -14,7 +14,8 @@ Sprint 2:
 1. On the "number of items.py" file I added "\n" between contestant names to make it easier to see all names. Fixed the coding for obtaining the amount of names. Before it was giving me a weird error that my indent was wrong no matter what I did so I made it into a function and added more parameters. Also I added more ways for incorrect entries to get feedback, most of which allow the user to start over automatically.
 2. Added coding for gathering info on the chores in the contest.
 3. Created file to gather data from user for contest.
-4. Renamed the file so that it will be easier to import.
+4. Renamed the file (from "number of items" to "num_items") so that it will be easier to import.
+5. Added a list called name_list to num_items to make it easier to gather info and pair names to chores. 
 - [ ] Keep track of progress on projectroadmap.md 
 
 Sprint 3:
