@@ -46,6 +46,7 @@ def num_names():
                 if name_amount<6:
                         if name_amount<2:
                                 print("Sorry, there are not enough people for this contest.")
+                                num_names()
                         else:
                                 if name_amount==2:
                                         two_cont()
