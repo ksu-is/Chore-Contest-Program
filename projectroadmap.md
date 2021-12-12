@@ -27,12 +27,12 @@ Sprint 3:
             I couldn't submit it on time and then it wouldn't let me submit it at all. So I did do the powerpoint slide but I wasn't able to upload it to D2L
 
 Final Part:
-- [ ] Answer questions below (see "Final Project Questions")
-- [ ] Prepare final presentation
-- [ ] Practice presentation
-- [ ] Schedule & record presentation in the Teams Project channel
-- [ ] Post a screenshot & link it
-- [ ] Upload PPT here
+- [x] Answer questions below (see "Final Project Questions")
+- [x] Prepare final presentation
+- [x] Practice presentation
+- [x] Schedule & record presentation in the Teams Project channel
+- [x] Post a screenshot & link it
+- [x] Upload PPT here
 
 Final Project Questions
 Project Presentations in Teams -> present in Teams Project Presentations channel (Project Presentations or Projects if there is no Project Presentations channel).
@@ -42,22 +42,28 @@ Present your project. To do so, follow these instructions. Be sure to record, as
 
 
             • What was the idea?
+                        My original idea was to have a program that would allow households and/or families to run a chore contest.
+                        What it ended up being was a simple program that collected data from users to display how many total chores each person completed.
 
             • What source code/tutorials did you find?
-
+                        Source URL: https://github.com/ksu-is/bingocaller
 
 3) How did your project develop?
 
 
             • What surprised you? How did the scope change? Why?
-
+                        I was having a lot of difficulty trying to make the ranking system work and I was running out of time, so I ended up simplifying the program to simply make a record of how many chores people completed.
             • What roadblocks did you face? How did you overcome them? (show the code and changes you made to fix it)
+                        During the course of this project, I faced numerous roadblocks. Some of them I overcame and some of them I didn’t really overcome. One of the most frequent ones I faced was simply forgetting something simple like having the function restart if the input was invalid.
+                        Another roadblock I faced was how to get the user input for chores and names to match up correctly. After several different methods that didn’t work, I ended up creating a list for the names which allowed for each name to get put into a list. 
+                        Following that I was having difficulty with getting the program to request the number of each chore created. I ended up deciding to iterate through the chore list with each person in the contest. At that point I hit a roadblock of how to make the program print the number of each chore matched with the chore, so I created a list for each contestant. 
+
 
 4) Run it/Show the code.
 
 
             • Does it run? Show what it can do even if it cannot run.
-
+                        It does run, but it doesn’t do everything I was hoping it would do. When I try to create the ranking system, I kept getting an error that said my chore count (which was used in a code above) didn’t exist. After trying numerous methods to fix it, I simply gave up on ranking the contestants.
             • What would you do next?
-
+                        Next I would try to figure out how to get the ranking system to work. If I could do that, I would try to do the second part of my project. I think the program would be much better if it did everything I originally intended for it to do. 
 When you finish, end the recording and let it upload for a minute or two before closing Teams. That's it. Remember, you may need to practice in advance to ensure your Teams setup is ready for presenting. Learn how to share your screen so you can show your code and any PPTs you develop.
