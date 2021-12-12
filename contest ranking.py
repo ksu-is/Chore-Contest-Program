@@ -227,6 +227,14 @@ def contest_ranking():
         fifth_place = name_list[4]
         
     print("First place is:", first_place, "\nSecond place is:", second_place, "\nThird place is:", third_place, "\nFourth place is:", fourth_place, "\nFifth place is:", fifth_place)
+    tie = input("Are there any names missing and/or blanks next to the ranks?")
+    if tie.capitalize() == "Yes":
+        print("There is a tie. You will have to manually determine who that contestant tied with. Sorry.")
+    elif tie.capitalize() == "No":
+        print("Congrats, everyone had a different amount of chores completed. The winner is ", first_place)
+    else:
+        print("Please type \"Yes\" or \"No\"")
+        tie = input("Are there any names missing and/or blanks next to the ranks?")
+
 
 contest_ranking()
-
